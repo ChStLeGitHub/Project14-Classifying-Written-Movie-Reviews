@@ -1,4 +1,4 @@
-# Project 14: Machine Learning for Texts
+# Project 14: Classifying Written Movie Reviews
  
 **Objective:** To develop a model for the Film Junky Union, a community of classic movie enthusiasts, that is capable of classifying IMDB movie reviews as positive or negative with high accuracy.
 
